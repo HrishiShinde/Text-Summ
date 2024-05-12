@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text-Summ"
 AUTHOR_NAME = "HrishiShinde"
-SRC_REPO = "Text-Summ"
+SRC_REPO = "textSumm"
 AUTHOR_EMAIL = "shindehrishikesh0115@gmail.com"
 
 setuptools.setup(

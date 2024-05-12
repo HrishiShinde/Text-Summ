@@ -42,6 +42,3 @@ for filepath in file_list:
             logging.info(f"Creating file: {filename}")
     else:
         logging.info(f"file: {filename} already exists")
-
-
-    
